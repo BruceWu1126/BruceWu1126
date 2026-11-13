@@ -6,3 +6,5 @@ Engineering student in the Computer Science major at **Mines Saint-Étienne**.
 - ✈️ Bachelor's thesis: a Primary Flight Display running on an STM32 board.
 - 🌱 Learning: build tools, software supply chain, LLM agents.
 - 🌐 Personal page: https://BruceWu1126.github.io
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BruceWu1126&show_icons=true&hide_border=true)
